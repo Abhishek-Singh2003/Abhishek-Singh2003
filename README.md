@@ -1,4 +1,4 @@
-<img src="text-3249.gif" alt="loading" style="height: 100vw; width: 100%;">
+<img src="text-3249.gif" alt="loading" style="height: 100vw; width: 50%;">
 
 # 💫 About Me:
 
