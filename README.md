@@ -1,7 +1,5 @@
-<img src="text-3249.gif" alt="loading" style="width: 1000px; height: 500px;">
-
+<img src="text-3249.gif" alt="loading" style="width: 1000px; height: 300px;">
 # 💫 About Me:
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/2003-abhi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhisheksingh13722@gmail.com) 
 
