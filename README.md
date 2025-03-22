@@ -1,4 +1,4 @@
-<img src="text-3249.gif" alt="loading" srcset="">
+<img src="text-3249.gif" alt="loading"  style="width:1000px;
 
 # 💫 About Me:
 
