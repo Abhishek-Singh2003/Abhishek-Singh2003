@@ -1,4 +1,4 @@
-<img src="text-3249.gif" alt="loading" style="width: 1000px; height: 350px;">
+<img src="text-3249.gif" alt="loading" style="width: 1000px; height: 300px;">
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">A passionate Full Stack Java Web Developer from India👇</h3>
 
