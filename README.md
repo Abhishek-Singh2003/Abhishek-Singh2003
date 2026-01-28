@@ -1,21 +1,177 @@
-<img src="text-3249.gif" alt="loading" style="width: 1000px; height: 300px;">
-<h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
-<h3 align="center">A passionate Full Stack Java Web Developer from India👇</h3>
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Full%20Stack%20Java%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descAlign=50&descAlignY=60&animation=fadeIn"/>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/2003-Abhi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhisheksingh13722@gmail.com) 
 
-- 👯 I’m looking to collaborate on **Open Sources**
-- 📫 How to reach me:  
-  [abhisheksingh13722@gmail.com](mailto:abhisheksingh13722@gmail.com)  
-  [abhisheksinghmnc@gmail.com](mailto:abhisheksinghmnc@gmail.com)
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Abhishek;Full+Stack+Java+Developer;)](https://git.io/typing-svg)
+  
+</div>
 
-# 💻 Tech Stack:
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhishek-Singh2003&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abhishek-Singh2003&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🚀 About Me
+
+- 💻 Full Stack Java Developer skilled in Java, Spring Boot, REST APIs, and Microservices<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28">
+- 🔐 Experienced with secure authentication & authorization using JWT and RBAC
+- ⚙️ Passionate about building scalable, high-performance, and production-ready backend systems
+- 🧩 Strong in OOP, Exception Handling, Multithreading, and clean code principles
+- 🌐 Frontend integration with React.js, HTML, CSS, and JavaScript
+- 🛠️ Proficient in Git, GitHub, Maven, Jenkins, Docker, Postman, and Swagger
+- 📊 Skilled in API testing, debugging, logging, and performance tuning with Spring Boot
+
+<div align="center">
+  
+  📧 **Contact**: [abhisheksinghmnc@gmail.com](mailto:abhisheksinghmnc@gmail.com) | 🌍 **Portfolio**: [[Abhishek.dev](https://abhi2003.netlify.app/)]
+  
+</div>
+
+---
+
+<div align="center">
+  <h1>💻 Tech Stack & Tools</h1>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=java" width="65" />
+      <br>Java
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=spring" width="65" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=hibernate" width="65" />
+      <br>JPA
+    </td>
+    <td align="center" width="120">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVer_wMBRrUuTJfkLE_pq1nZRrlaHrWVkNUA&s" width="65" />
+      <br>Oracle
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=postgres" width="65" />
+      <br>PostgreSQL
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="65" />
+      <br>HTML
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css" width="65" />
+      <br>CSS
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" />
+      <br>React
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git" width="65" />
+      <br>Git
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" />
+      <br>GitHub
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=maven" width="65" />
+      <br>Maven
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="65" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=docker" width="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=postman" width="65" />
+      <br>Postman
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.elizeire.com/assets/img/swagger.png" width="65" />
+      <br>Swagger
+    </td>
+    <td align="center" width="120">
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCgpiQF6afn-YzdvKU7REprqFfjZ9vGtWWgP4e5vPRLnm2shfwi5MYQYpk1sbQsWsF_vIP6vNuyFifvuHBPl1w-shI-jNLwjFk3fhbCYFvFC20sagl3QB-5_m2igUyStIXJ7vZ44cdA2c/w1200-h630-p-k-no-nu/JUnit+5.png" width="65" />
+      <br>JUnit
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=linux" width="65" />
+      <br>Linux
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=idea" width="65" />
+      <br>IntelliJ
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=eclipse" width="65" />
+      <br>Eclipse
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65" />
+      <br>VS Code
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=elasticsearch" width="65" />
+      <br>ELK Stack
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=graphql" width="65" />
+      <br>REST APIs
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=spring" width="65" />
+      <br>Microservices
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.cisa.gov/sites/default/files/styles/16x9_medium/public/2024-11/rm373batch5-18a.jpg?h=43b96b69&itok=V21LpmqN" width="65" />
+      <br>AI
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65" />
+      <br>SQL
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git" width="65" />
+      <br>SDLC
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=kafka" width="65" />
+      <br>Kafka
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=redis" width="65" />
+      <br>Redis Cache
+    </td>
+  </tr>
+</table>
+
+
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhishek-Singh2003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -23,10 +179,88 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abhishek-Singh2003&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhishek-Singh2003&theme=chartreuse-dark&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
+
+[![Abhishek-Singh2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&border_radius=2&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&border_radius=2)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&layout=compact)
+
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Singh2003&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=7FD957&line=7FD957&point=7FD957" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Singh2003&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=7FD957&line=7FD957&point=7FD957" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Singh2003&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=7FD957&line=7FD957&point=7FD957" alt="Abhishek-Singh2003's contribution graph" />
+  </picture>
+</div>
+
+
+
+
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhishek-Singh2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px"/>
+  Let's Connect & Collaborate!
+</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/teja-naik-0b3021282/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Teja%20Naik-0A66C2?logo=linkedin&logoColor=white"></a>
+  &nbsp;
+  <a href="https://www.instagram.com/eren_yeager9_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@eren__yeager9__-E4405F?logo=instagram&logoColor=white"></a>
+  &nbsp;
+  
+  &nbsp;
+  <a href="mailto:tinkuteja740@gmail.com"><img src="https://img.shields.io/badge/Email-tinkuteja740@gmail.com-333333?logo=gmail&logoColor=white"></a>
+  &nbsp;
+  <a href="https://x.com/TEJA_NAIKK" target="_blank"><img src="https://img.shields.io/badge/Twitter-@TEJA__NAIKK-1DA1F2?logo=x&logoColor=white"></a>
+  &nbsp;
+ 
+</p>
+
+---
+
+## 🎧 Currently Vibing To
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yiaf2fzhgezc1sc5384i1u364&count=3&width=400"/>
+</div>
+
+---
+
+<div align="center">
+  
+**Thanks for visiting my profile!** 
+
+If you find my work interesting, consider:
+- ⭐ **Starring** my repositories
+- 🤝 **Following** me for updates
+- 💬 **Reaching out** for collaboration opportunities
+
+</div>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/tejanaik15" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" height="50"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=TejaNaik15&color=7FD957&style=flat-square)
+  ![GitHub followers](https://img.shields.io/github/followers/TejaNaik15?style=flat-square&color=7FD957&labelColor=0d1117)
+  ![GitHub stars](https://img.shields.io/github/stars/TejaNaik15?style=flat-square&color=7FD957&labelColor=0d1117)
+  
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer&animation=fadeIn"/>
+</p>
