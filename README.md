@@ -179,12 +179,29 @@
 ----
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abhishek-Singh2003&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
+<!-- Row 1: Left & Right -->
+<table align="center">
+  <tr>
+    <td align="left">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Abhishek-Singh2003&theme=chartreuse-dark&hide_border=true" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://github-readme-stats.vercel.app/api?username=Abhishek-Singh2003">
+        <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&border_radius=2" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Abhishek-Singh2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&border_radius=2&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&border_radius=2)
+<!-- Row 2: Center -->
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=10" />
+  </a>
+</p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003)
 
 <div>
   <picture>
