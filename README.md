@@ -241,9 +241,10 @@ If you find my work interesting, consider:
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=TejaNaik15&color=7FD957&style=flat-square)
-  ![GitHub followers](https://img.shields.io/github/followers/TejaNaik15?style=flat-square&color=7FD957&labelColor=0d1117)
-  ![GitHub stars](https://img.shields.io/github/stars/TejaNaik15?style=flat-square&color=7FD957&labelColor=0d1117)
+ ![Profile Views](https://komarev.com/ghpvc/?username=Abhishek-Singh2003&color=7FD957&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Abhishek-Singh2003?style=flat-square&color=7FD957&labelColor=0d1117)
+![GitHub stars](https://img.shields.io/github/stars/Abhishek-Singh2003?style=flat-square&color=7FD957&labelColor=0d1117)
+
   
 </div>
 
