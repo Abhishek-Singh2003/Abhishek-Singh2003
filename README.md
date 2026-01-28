@@ -176,35 +176,39 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+----
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhishek-Singh2003&theme=chartreuse-dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abhishek-Singh2003&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
 
-![Abhishek-Singh2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
+[![Abhishek-Singh2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=Abhishek-Singh2003)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003&theme=chartreuse-dark&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Singh2003&theme=github-dark-dimmed&hide_border=true)
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Singh2003&theme=github-dark-dimmed&hide_border=true" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Singh2003&theme=github-dark-dimmed&hide_border=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Singh2003&theme=github-dark-dimmed&hide_border=true" alt="Abhishek-Singh2003's contribution graph" />
+  </picture>
+</div>
 
 ---
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px"/>
-  Let's Connect & Collaborate!
-</h1>
+<h1 align="center">🤝 Let's Connect & Collaborate!</h1>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/teja-naik-0b3021282/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Teja%20Naik-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/abhishek-singh2003/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Singh-0A66C2?logo=linkedin&logoColor=white">
+  </a>
   &nbsp;
-  <a href="https://www.instagram.com/eren_yeager9_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@eren__yeager9__-E4405F?logo=instagram&logoColor=white"></a>
-  &nbsp;
-  
-  &nbsp;
-  <a href="mailto:tinkuteja740@gmail.com"><img src="https://img.shields.io/badge/Email-tinkuteja740@gmail.com-333333?logo=gmail&logoColor=white"></a>
-  &nbsp;
-  <a href="https://x.com/TEJA_NAIKK" target="_blank"><img src="https://img.shields.io/badge/Twitter-@TEJA__NAIKK-1DA1F2?logo=x&logoColor=white"></a>
-  &nbsp;
- 
+  <a href="mailto:abhisheksinghmnc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abhisheksinghmnc@gmail.com-D14836?logo=gmail&logoColor=white">
+  </a>
 </p>
+
+
+
 
 ---
 
