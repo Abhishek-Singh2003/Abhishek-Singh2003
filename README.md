@@ -213,8 +213,10 @@
 
 ---
 
-<h1 align="center">🤝 Let's Connect & Collaborate!</h1>
-
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px"/>
+  Let's Connect & Collaborate!
+</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-singh2003/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Singh-0A66C2?logo=linkedin&logoColor=white">
