@@ -181,7 +181,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abhishek-Singh2003&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Abhishek-Singh2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=Abhishek-Singh2003)
+[![Abhishek-Singh2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&border_radius=2&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&border_radius=2)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003)
 
