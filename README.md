@@ -169,12 +169,8 @@
   </tr>
 </table>
 
-
-
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhishek-Singh2003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -182,29 +178,15 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhishek-Singh2003&theme=chartreuse-dark&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhishek-Singh2003&theme=chartreuse-dark&hide_border=true)
 
-[![Abhishek-Singh2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&border_radius=2&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&border_radius=2)
+![Abhishek-Singh2003's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003&theme=chartreuse-dark&layout=compact)
 
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Singh2003&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=7FD957&line=7FD957&point=7FD957" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Singh2003&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=7FD957&line=7FD957&point=7FD957" />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Singh2003&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=7FD957&line=7FD957&point=7FD957" alt="Abhishek-Singh2003's contribution graph" />
-  </picture>
-</div>
-
-
-
-
-
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Singh2003&theme=github-dark-dimmed&hide_border=true)
 
 ---
-
-
-
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px"/>
