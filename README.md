@@ -218,7 +218,7 @@
   Let's Connect & Collaborate!
 </h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-singh2003/" target="_blank">
+  <a href="https://www.linkedin.com/in/2003-Abhi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Singh-0A66C2?logo=linkedin&logoColor=white">
   </a>
   &nbsp;
