@@ -178,14 +178,14 @@
 
 ----
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhishek-Singh2003)
+<!-- STATS CARD (stable alternative) -->
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Abhishek-Singh2003&show_icons=true&theme=radical)](https://github.com/Abhishek-Singh2003)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Singh2003)
+<!-- TOP LANGUAGES (stable alternative) -->
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Abhishek-Singh2003&layout=compact&theme=radical)](https://github.com/Abhishek-Singh2003)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003&layout=compact)
-
-
-
+<!-- STREAK (may not always load) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abhishek-Singh2003&theme=react)](https://git.io/streak-stats)
 
 ----
 <div>
