@@ -180,16 +180,14 @@
 ## 📊 GitHub Stats
 
 <!-- Row 1: Left & Right -->
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Abhishek-Singh2003&theme=chartreuse-dark&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhishek-Singh2003&theme=chartreuse-dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark" />
+</p>
+
 
 
 <!-- Row 2: Center -->
