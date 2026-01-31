@@ -178,11 +178,12 @@
 
 ----
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Abhishek-Singh2003)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhishek-Singh2003)
 
-[![Abhishek-Singh2003's GitHub stats](https://readmestats.999857.xyz/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&border_radius=2)](https://readmestats.999857.xyz/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&border_radius=2)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Singh2003)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.26&count_weight=0.26)](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.3&count_weight=0.26)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003&layout=compact)
+
 
 
 
