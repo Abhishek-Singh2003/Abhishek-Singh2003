@@ -178,7 +178,7 @@
 
 ----
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhishek-Singh2003&theme=chartreuse-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Abhishek-Singh2003)](https://git.io/streak-stats)
 
 [![Abhishek-Singh2003's GitHub stats](https://readmestats.999857.xyz/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&border_radius=2)](https://readmestats.999857.xyz/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&border_radius=2)
 
