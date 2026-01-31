@@ -178,14 +178,21 @@
 
 ----
 
-<!-- STATS CARD (stable alternative) -->
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Abhishek-Singh2003&show_icons=true&theme=react)](https://github.com/Abhishek-Singh2003)
+<table align="center">
+  <tr>
+    <td>
+      <img width="420" src="https://github-readme-stats-fast.vercel.app/api?username=Abhishek-Singh2003&show_icons=true&theme=react" />
+    </td>
+    <td>
+      <img width="420" src="https://streak-stats.demolab.com?user=Abhishek-Singh2003&theme=react" />
+    </td>
+  </tr>
+</table>
 
-<!-- TOP LANGUAGES (stable alternative) -->
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Abhishek-Singh2003&layout=compact&theme=react)](https://github.com/Abhishek-Singh2003)
+<p align="center">
+  <img width="360" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Abhishek-Singh2003&layout=compact&theme=react" />
+</p>
 
-<!-- STREAK (may not always load) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abhishek-Singh2003&theme=react)](https://git.io/streak-stats)
 
 ----
 <div>
