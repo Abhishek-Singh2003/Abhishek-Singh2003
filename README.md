@@ -177,27 +177,15 @@
 
 
 ----
-## 📊 GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhishek-Singh2003&theme=chartreuse-dark&hide_border=true&fire=EB5454)](https://git.io/streak-stats)
 
-<!-- Row 1: Left & Right -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhishek-Singh2003&theme=chartreuse-dark" />
-</p>
+[![Abhishek-Singh2003's GitHub stats](https://readmestats.999857.xyz/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&border_radius=2)](https://readmestats.999857.xyz/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&border_radius=2)
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.26&count_weight=0.26)](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&layout=compact&border_radius=0.26&langs_count=10000000&size_weight=0.3&count_weight=0.26)
 
 
 
-<!-- Row 2: Center -->
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Singh2003&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=10" />
-  </a>
-</p>
-
-
+----
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Singh2003&theme=github-dark-dimmed&hide_border=true" />
