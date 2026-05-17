@@ -222,16 +222,6 @@
 
 
 
----
-
-## 🎧 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yiaf2fzhgezc1sc5384i1u364&count=3&width=400"/>
-</div>
-
----
-
 <div align="center">
   
 **Thanks for visiting my profile!** 
