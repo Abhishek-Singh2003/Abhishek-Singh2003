@@ -105,10 +105,10 @@
       <img src="https://skillicons.dev/icons?i=postman" width="65" />
       <br>Postman
     </td>
-    <td align="center" width="120">
-      <img src="https://www.elizeire.com/assets/img/swagger.png" width="65" />
-      <br>Swagger
-    </td>
+   <td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="65" />
+  <br>Swagger
+</td>
     <td align="center" width="120">
       <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCgpiQF6afn-YzdvKU7REprqFfjZ9vGtWWgP4e5vPRLnm2shfwi5MYQYpk1sbQsWsF_vIP6vNuyFifvuHBPl1w-shI-jNLwjFk3fhbCYFvFC20sagl3QB-5_m2igUyStIXJ7vZ44cdA2c/w1200-h630-p-k-no-nu/JUnit+5.png" width="65" />
       <br>JUnit
